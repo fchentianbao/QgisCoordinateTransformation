@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/geographic.png</file>
+        <file>images/transformed.png</file>
+    </qresource>
+</RCC>
